@@ -26,12 +26,5 @@ I'm also interest in geography, mathematic, zoology, history and fantasy.
   <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LaTeX-Light.svg" alt="latex" width="40" height="40"/> </a> 
   <a href="https://www.selenium.dev/documentation/webdriver/getting_started/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Selenium.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/core/tutorials/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/DotNet.svg" alt="dotnet" width="40" height="40"/> </a> 
-
-<!--
-  
-  
-  
-  Blazor
-  C# WebAPI
-  
-  -->
+  <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/format:webp/0*wIuLFEiMWK5Qq80U.png" alt="blazor" width="40" height="40"/> </a> 
+  <a href="https://learn.microsoft.com/en-us/aspnet/tutorials" target="_blank" rel="noreferrer"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg" alt="aspnet" width="40" height="40"/> </a> 
