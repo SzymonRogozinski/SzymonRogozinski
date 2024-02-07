@@ -29,4 +29,5 @@ I'm also interest in geography, mathematic, zoology, history and fantasy.
   https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg
   Blazor
   C# WebAPI
+  Selenium
   -->
